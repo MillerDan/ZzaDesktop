@@ -62,6 +62,7 @@
                        RelativePanel.AlignRightWithPanel="True"
                        RelativePanel.Below="pageHeader">
 
+            <TextBlock Text="Add/Edit Customer View"/>
 
         </RelativePanel>
 
